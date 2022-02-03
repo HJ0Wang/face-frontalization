@@ -5,7 +5,7 @@ The target is to provide three simple but efficient practices to CR-GAN when syn
 
 The following is the visual comparison results with [TP-GAN](https://github.com/HRLTY/TP-GAN).
 
-![Visual Comparison results with TP-GAN](https://github.com/huijiaowang/Face_Frontalization/blob/main/results/Compare_with_TP-GAN.jpg)
+![Visual Comparison results with TP-GAN](https://github.com/huijiaowang/face_frontalization/blob/main/results/Compare_with_TP-GAN.jpg)
 
 More details please pay attention to our paper "Simple and Efficient Practices for Profile-to-frontal Face Synthesis and Recognition" which is to be submitted to ICIP 2022. 
 
